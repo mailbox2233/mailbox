@@ -1,0 +1,15 @@
+c:\users\liujun\documents\visual studio 2010\Projects\mail\mail\bin\Debug\mail.exe
+c:\users\liujun\documents\visual studio 2010\Projects\mail\mail\bin\Debug\mail.pdb
+c:\users\liujun\documents\visual studio 2010\Projects\mail\mail\obj\x86\Debug\mail.Properties.Resources.resources
+c:\users\liujun\documents\visual studio 2010\Projects\mail\mail\obj\x86\Debug\mail.csproj.GenerateResource.Cache
+c:\users\liujun\documents\visual studio 2010\Projects\mail\mail\obj\x86\Debug\mail.exe
+c:\users\liujun\documents\visual studio 2010\Projects\mail\mail\obj\x86\Debug\mail.pdb
+c:\users\liujun\documents\visual studio 2010\Projects\mail\mail\obj\x86\Debug\mail.csprojResolveAssemblyReference.cache
+C:\Users\liujun\documents\visual studio 2010\Projects\mail\mail\obj\x86\Debug\mail.Main.resources
+E:\work\baidu-data\邮件\mail\mail\obj\x86\Debug\mail.exe
+E:\work\baidu-data\邮件\mail\mail\obj\x86\Debug\mail.pdb
+E:\work\baidu-data\邮件\mail\mail\bin\Debug\mail.exe
+E:\work\baidu-data\邮件\mail\mail\bin\Debug\mail.pdb
+E:\work\baidu-data\邮件\mail\mail\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\work\baidu-data\邮件\mail\mail\obj\x86\Debug\mail.Main.resources
+E:\work\baidu-data\邮件\mail\mail\obj\x86\Debug\mail.Properties.Resources.resources
